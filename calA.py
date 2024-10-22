@@ -13,3 +13,7 @@ def function(a):
 
 def updateInMain():
     return "updateInMain"
+
+
+def function2(b):
+    return b**2
